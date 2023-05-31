@@ -4,8 +4,8 @@ While its not recommended that you use these for any projects, it will be a good
 regressors. 
 
 
-Prob1.dat is used for prob1_fit.py which is a Univariate Regressor 
-Prob2.dat is used fot prob2_fit.py which is a Polynomial Regressor
-Prob3.dat is used for prob3_fit.py which is a Multivariate Regressor
+Prob1.dat is used for prob1_fit.py which is a Univariate Regressor. 
+Prob2.dat is used fot prob2_fit.py which is a Polynomial Regressor.
+Prob3.dat is used for prob3_fit.py which is a Multivariate Regressor.
 
-Just run these with their respective data file, all regressors have visualization in them to see how the regressor was able to fit the data
+Just run these with their respective data file, all regressors have visualization in them to see how the regressor was able to fit the data.
